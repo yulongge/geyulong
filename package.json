@@ -1,0 +1,16 @@
+{
+  "name": "geyulong",
+  "version": "1.0.0",
+  "description": "npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "npm",
+    "test",
+    "demo"
+  ],
+  "author": "geyulong",
+  "license": "ISC"
+}
